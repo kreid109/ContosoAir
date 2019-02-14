@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/khreid/MsReady-GitHub-AzureDevOps/_apis/build/status/kreid109.ContosoAir?branchName=master)](https://dev.azure.com/khreid/MsReady-GitHub-AzureDevOps/_build/latest?definitionId=2&branchName=master)
 
 
 # Microsoft.Github CI Demo
